@@ -1,8 +1,15 @@
 <?php
 include "header.php";
 ?>
-
-Conteudo ✔
+<div class="container">
+  <div class="row">
+    <div class="col-6"><img src="//picsum.photos/800/600" alt=""></div>
+    <div class="col-6">
+      <h1>RF Onilne</h1>
+      <p>O jogo mais filha da puta que existe</p>
+    </div>
+  </div>
+</div>
 
 <?php
 include "footer.php";
