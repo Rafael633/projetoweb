@@ -2,15 +2,13 @@
 include "header.php";
 ?>
 <div class="container">
-  <div class="row">
-    <div class="col-6"><img src="//picsum.photos/800/600" alt=""></div>
-    <div class="col-6">
-      <h1>RF Onilne</h1>
-      <p>O jogo mais filha da puta que existe</p>
+    <div class="row">
+        <div class="col-6"><img src="assets/images/download.jpg" alt="random image"></div>
+        <div class="col-6">
+            <a href="//google.com" target="_blank" class="botao">Visite o Google</a>
+        </div>
     </div>
-  </div>
 </div>
-
 <?php
 include "footer.php";
 ?>

@@ -1,1 +1,2 @@
-console.log("Teste") 
+import "../scss/app.scss";
+console.log("Hello World")
